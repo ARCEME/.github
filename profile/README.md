@@ -21,6 +21,11 @@ Weynants, M., Teber, K., Mahecha, M., & Gans, F. (2025). ARCEME Drought followed
 
 ### Conference communications
 
-Weynants, M., Teber, K., Gans, F., Kluczek, M., Bojanowski, J., Musial, J., & Mahecha, M. (2025, June 25). ARCEME: Adaptation and Resilience to Climate Extremes and Multi-hazard Events. ESA Living Planet Symposium 2025. https://doi.org/10.5281/zenodo.15738073
+Weynants, M., Teber, K., Gans, F., Kluczek, M., Bojanowski, J., Musial, J., & Mahecha, M. (2025, June 25). ARCEME: Adaptation and Resilience to Climate Extremes and Multi-hazard Events. *Oral presentation*. ESA Living Planet Symposium 2025. https://doi.org/10.5281/zenodo.15738073 or https://lps25.esa.int/lps25-presentations/presentations/777/
 
-Weynants, M., Teber, K., Mahecha, M., Kluczek, M., Bojanowski, J., Musial, J., & Gans, F. (2025, June 25). ARCEME event database for cascading drought and extreme precipitation events. ESA Living Planet Symposium 2025. https://doi.org/10.5281/zenodo.15738346
+Weynants, M., Teber, K., Mahecha, M., Kluczek, M., Bojanowski, J., Musial, J., & Gans, F. (2025, June 25). ARCEME event database for cascading drought and extreme precipitation events. *Poster*. ESA Living Planet Symposium 2025. https://doi.org/10.5281/zenodo.15738346
+
+Kluczek, M., Bojanowski, J.S., Musiał, J., Weynants, M., Gans, F., Teber, K., Mahecha, M.D. (2025, June 27). Cloud-based framework for data cubes extraction of extreme events. *Poster*. ESA Living Planet Symposium 2025.
+
+Teber, K., Weynants, M., Gans, F., Kluczek, M., Bojanowski, J., Musial, J., Mahecha, M.D (5-7 May 2025). ARCEME: Adaptation and Resilience to Climate Extremes and Multi-hazard Events. *Poster*. [ESA-NASA International Workshop on AI Foundation Model for EO](https://nikal.eventsair.com/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/).
+
