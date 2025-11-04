@@ -9,6 +9,10 @@ The specific objectives are :
 
 ## Project Outputs
 
+### Peer-reviewed articles and data papers
+
+Teber, K., Weynants, M., Gans, F., & Mahecha, M. D. (2025). Geo-Disasters: geocoding climate-related events in the international disaster database EM-DAT. Big Earth Data, 1–16. https://doi.org/10.1080/20964471.2025.2576274
+
 ### Datasets
 
 Teber, K., Weynants, M., Gans, F., & Mahecha, M. (2025). Geo-Disasters v 1.0.0 – Geocoded EM-DAT climate-disaster footprints (1990 – 2023) (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15487667
