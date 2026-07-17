@@ -15,11 +15,17 @@ Teber, K., Weynants, M., Gans, F., & Mahecha, M. D. (2025). Geo-Disasters: geoco
 
 ### Datasets
 
+Our datasets are listed on the [ESA Open Science Catalog](https://opensciencedata.esa.int/projects/arceme/collection), including the collections of Sentinel data cubes for the analysis of drought followed by extreme precipitation.
+
 Teber, K., Weynants, M., Gans, F., & Mahecha, M. (2025). Geo-Disasters v 1.0.0 – Geocoded EM-DAT climate-disaster footprints (1990 – 2023) (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15487667
 
 Weynants, M., Teber, K., Mahecha, M., & Gans, F. (2025). ARCEME Drought followed by Heavy Precipitation Database [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15705050
 
 ### Conference communications
+
+Weynants, M., Teber, K., Mahecha, M. D., Kluczek, M., Bojanowski, J. S., and Gans, F. (2026, May 08). Can Sentinel-2 help characterize the land management effect on the impact of drought followed by heavy precipitation in European agroecosystems?, *Oral presentation* at EGU General Assembly 2026, Vienna, Austria, 3–8 May 2026, EGU26-13636, https://doi.org/10.5194/egusphere-egu26-13636.
+
+Teber, K., Weynants, M., Gans, F., Kluczek, M., Bojanowski, J. S., and Mahecha, M. D. (2026, May 08). A curated sentinel collection to study cascading droughts and extreme precipitation events, *Oral presentation* at EGU General Assembly 2026, Vienna, Austria, 3–8 May 2026, EGU26-14030, https://doi.org/10.5194/egusphere-egu26-14030, 2026.
 
 Weynants, M., Teber, K., Gans, F., Kluczek, M., Bojanowski, J., Musial, J., & Mahecha, M. (2025, June 25). ARCEME: Adaptation and Resilience to Climate Extremes and Multi-hazard Events. *Oral presentation*. ESA Living Planet Symposium 2025. https://doi.org/10.5281/zenodo.15738073 or https://lps25.esa.int/lps25-presentations/presentations/777/
 
@@ -29,3 +35,5 @@ Kluczek, M., Bojanowski, J.S., Musiał, J., Weynants, M., Gans, F., Teber, K., M
 
 Teber, K., Weynants, M., Gans, F., Kluczek, M., Bojanowski, J., Musial, J., Mahecha, M.D (5-7 May 2025). ARCEME: Adaptation and Resilience to Climate Extremes and Multi-hazard Events. *Poster*. [ESA-NASA International Workshop on AI Foundation Model for EO](https://nikal.eventsair.com/nasa-esa-international-workshop-on-geospatial-ai-foundation-model-for-earth-observation-and-earth-sciences/).
 
+## Funding
+This project was funded by the European Space Agency in response to ESA CfP/5-50033/23/I-KE.
